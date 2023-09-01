@@ -12,4 +12,4 @@ Once you go to http://localhost:3000/ you can edit around, maybe install the web
 
 ## notes
 
-This was worked on with https://github.com/NekoNoka
+Collaborated with https://github.com/NekoNoka
